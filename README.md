@@ -184,3 +184,5 @@ results/              outputs; results/looker_studio/ = dashboard data
 ## Data licences
 
 Electricity price data: Bundesnetzagentur | SMARD.de, CC BY 4.0. Weather data: Open-Meteo.com, CC BY 4.0.
+
+I used AI tools to help with parts of the code and documentation. The analysis choices, the data and the interpretation of the results are my own work.
