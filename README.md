@@ -1,5 +1,7 @@
 # Energy Cost Controlling – Budget vs. Actual, Variance Analysis & Forecasting on Real SMARD Prices
 
+   📊 Live dashboard: [Open in Data Studio](https://datastudio.google.com/reporting/701014a8-dfae-433a-863c-762ed2fa73e9)
+
 An electricity supplier (or a virtual power plant) buys power on the day-ahead market for **1,000 customer homes**.
 Controlling has to answer three questions every month: *Are we on budget? Why not? Where will we end the year?*
 
