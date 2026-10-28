@@ -1,5 +1,18 @@
 # Energy Cost Controlling – Budget vs. Actual, Variance Analysis & Forecasting on Real SMARD Prices
 
+## Why I built this
+
+In my working student job at Siemens, I worked with cloud cost data and reporting.
+I wanted to see how the same questions look for an energy company: are we on budget,
+and if not, why? So I downloaded real day-ahead prices from SMARD and built a small
+controlling pipeline and a dashboard around them.
+
+The result that surprised me most was the biggest cost driver in 2025. It was not
+the price level, but the time when homes with solar panels buy electricity. The
+hardest part for me was the dashboard. My first chart used two different axes, and
+December looked over budget when it was actually under. Next, I would like to try
+the same pipeline with real smart meter data.
+
    📊 Live dashboard: [Open in Data Studio](https://datastudio.google.com/reporting/701014a8-dfae-433a-863c-762ed2fa73e9)
 
 An electricity supplier (or a virtual power plant) buys power on the day-ahead market for **1,000 customer homes**.
